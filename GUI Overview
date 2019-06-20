@@ -1,0 +1,5 @@
+For this GUI, you need to create three files in one project , game1.
+Files: 
+Menu.java
+GameWindow.java
+hangman.java
